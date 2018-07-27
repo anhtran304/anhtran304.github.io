@@ -91,6 +91,11 @@ p {
 
 .sidebar .contact-list li {
   margin-bottom: 15px;
+  display: flex;
+}
+
+.sidebar .contact-list .icon {
+  width: 10%;
 }
 
 .sidebar .contact-list li:last-child {
@@ -148,6 +153,7 @@ p {
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
+  display: flex;
 }
 
 .content .section .section-title .text {
@@ -159,6 +165,7 @@ p {
   width: 30px;
   height: 30px;
   margin-right: 8px;
+  width: 4.3%;
   display: inline-block;
   color: #fff;
   -webkit-border-radius: 50%;
