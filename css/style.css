@@ -21,6 +21,7 @@ a {
 }
 
 a:hover {
+  text-decoration: underline;
   color: rgba(255, 255, 255, 0.6);
 }
 
@@ -98,7 +99,7 @@ p {
 
 .sidebar .contact-list a:hover {
   color: #1a454f;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .sidebar .contact-list a:focus {
